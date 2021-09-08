@@ -20,3 +20,5 @@ var2 = browser.find_element_by_css_selector("#highcharts-10 > svg > g:nth-child(
 print(var2)
 
 
+
+
